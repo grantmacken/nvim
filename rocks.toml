@@ -1,0 +1,44 @@
+# This is your rocks.nvim plugins declaration file.
+# Here is a small yet pretty detailed example on how to use it:
+#
+# [plugins]
+# nvim-treesitter = "semver_version"  # e.g. "1.0.0"
+
+# List of non-Neovim rocks.
+# This includes things like `toml` or other lua packages.
+[rocks]
+
+# List of Neovim plugins to install alongside their versions.
+# If the plugin name contains a dot then you must add quotes to the key name!
+[plugins]
+"rocks.nvim" = "2.42.2"
+
+"conform.nvim" = "8.2.0"
+"flash.nvim" = "2.1.0"
+"fzf-lua" = "0.0.1494"
+"gitsigns.nvim" = "0.9.0"
+"kanagawa.nvim" = "scm"
+"mini.align" = "0.9.0"
+"mini.bufremove" = "0.9.0"
+"mini.clue" = "0.14.0"
+"mini.cursorword" = "0.9.0"
+"mini.icons" = "0.14.0"
+"mini.indentscope" = "0.9.0"
+"mini.notify" = "0.14.0"
+"mini.splitjoin" = "0.9.0"
+"mini.statusline" = "0.9.0"
+"mini.surround" = "0.9.0"
+"mini.tabline" = "0.9.0"
+"mini.trailspace" = "0.9.0"
+"noice.nvim" = "4.7.2"
+"oil.nvim" = "2.13.0"
+"quicker.nvim" = "1.2.0"
+"render-markdown.nvim" = "7.6.0"
+"toggleterm.nvim" = "2.13.0"
+## tree-sitter parsers
+tree-sitter-toml = "0.0.30"
+tree-sitter-gleam = "0.0.32"
+tree-sitter-jq = "0.0.29"
+tree-sitter-make = "0.0.29"
+tree-sitter-bash = "0.0.36"
+tree-sitter-regex = "0.0.37"

@@ -1,0 +1,133 @@
+
+sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+sourcing "/usr/local/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent.vim
+could not source "/etc/xdg/nvim/sysinit.vim"
+could not source "$VIM/sysinit.vim"
+sourcing "/var/home/gmack/.config/nvim/init.lua"
+finished sourcing /var/home/gmack/.config/nvim/init.lua
+sourcing "/usr/local/share/nvim/runtime/filetype.lua"
+not found in runtime path: "ftdetect/*.{vim,lua}"
+finished sourcing /usr/local/share/nvim/runtime/filetype.lua
+sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+line 20: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+Executing FileType Autocommands for "*"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+sourcing "/var/home/gmack/.config/nvim/plugin/1_options.lua"
+not found in runtime path: "colors/kanagawa.*"
+line 0: sourcing "/var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/kanagawa.nvim/colors/kanagawa.vim"
+finished sourcing /var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/kanagawa.nvim/colors/kanagawa.vim
+continuing in nvim_exec2() called at /var/home/gmack/.config/nvim/plugin/1_options.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/filetype.lua"
+finished sourcing /usr/local/share/nvim/runtime/filetype.lua
+continuing in nvim_exec2() called at /var/home/gmack/.config/nvim/plugin/1_options.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+continuing in nvim_exec2() called at /var/home/gmack/.config/nvim/plugin/1_options.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent.vim
+continuing in nvim_exec2() called at /var/home/gmack/.config/nvim/plugin/1_options.lua:0
+finished sourcing /var/home/gmack/.config/nvim/plugin/1_options.lua
+sourcing "/var/home/gmack/.config/nvim/plugin/2_mappings.lua"
+finished sourcing /var/home/gmack/.config/nvim/plugin/2_mappings.lua
+sourcing "/var/home/gmack/.config/nvim/plugin/3_autocmds.lua"
+finished sourcing /var/home/gmack/.config/nvim/plugin/3_autocmds.lua
+sourcing "/var/home/gmack/.config/nvim/plugin/4_diagnostics.lua"
+finished sourcing /var/home/gmack/.config/nvim/plugin/4_diagnostics.lua
+sourcing "/var/home/gmack/.config/nvim/plugin/5_lsp.lua"
+finished sourcing /var/home/gmack/.config/nvim/plugin/5_lsp.lua
+sourcing "/usr/share/nvim/site/plugin/fzf.vim"
+finished sourcing /usr/share/nvim/site/plugin/fzf.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/gzip.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+line 3: sourcing "/usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /usr/local/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchit.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchparen.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/netrwPlugin.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/rplugin.vim"
+line 3: sourcing "/var/home/gmack/.local/share/nvim/rplugin.vim"
+finished sourcing /var/home/gmack/.local/share/nvim/rplugin.vim
+continuing in <SNR>26_LoadRemotePlugins
+finished sourcing /usr/local/share/nvim/runtime/plugin/rplugin.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/shada.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/spellfile.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tarPlugin.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tutor.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/zipPlugin.vim
+sourcing "/usr/local/share/nvim/runtime/plugin/editorconfig.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/editorconfig.lua
+sourcing "/usr/local/share/nvim/runtime/plugin/man.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/man.lua
+sourcing "/usr/local/share/nvim/runtime/plugin/osc52.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/osc52.lua
+sourcing "/usr/local/share/nvim/runtime/plugin/tohtml.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tohtml.lua
+sourcing "/var/home/gmack/.local/share/nvim/rocks/lib/luarocks/rocks-5.1/rocks.nvim/2.42.2-1/plugin/rocks.lua"
+not found in 'packpath': "pack/*/start/mini.notify"
+not found in 'packpath': "pack/*/start/conform.nvim"
+not found in 'packpath': "pack/*/start/toggleterm.nvim"
+not found in 'packpath': "pack/*/start/oil.nvim"
+not found in 'packpath': "pack/*/start/tree-sitter-bash"
+not found in 'packpath': "pack/*/start/flash.nvim"
+not found in 'packpath': "pack/*/start/tree-sitter-gleam"
+not found in 'packpath': "pack/*/start/render-markdown.nvim"
+line 0: sourcing "/var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/render-markdown.nvim/plugin/render-markdown.lua"
+finished sourcing /var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/render-markdown.nvim/plugin/render-markdown.lua
+continuing in /var/home/gmack/.local/share/nvim/rocks/lib/luarocks/rocks-5.1/rocks.nvim/2.42.2-1/plugin/rocks.lua
+not found in 'packpath': "pack/*/start/tree-sitter-jq"
+not found in 'packpath': "pack/*/start/gitsigns.nvim"
+not found in 'packpath': "pack/*/start/mini.icons"
+not found in 'packpath': "pack/*/start/tree-sitter-make"
+not found in 'packpath': "pack/*/start/kanagawa.nvim"
+not found in 'packpath': "pack/*/start/mini.bufremove"
+not found in 'packpath': "pack/*/start/mini.align"
+not found in 'packpath': "pack/*/start/tree-sitter-regex"
+not found in 'packpath': "pack/*/start/mini.clue"
+not found in 'packpath': "pack/*/start/tree-sitter-toml"
+not found in 'packpath': "pack/*/start/mini.cursorword"
+not found in 'packpath': "pack/*/start/mini.indentscope"
+not found in 'packpath': "pack/*/start/fzf-lua"
+line 0: sourcing "/var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/fzf-lua/plugin/fzf-lua.vim"
+finished sourcing /var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/fzf-lua/plugin/fzf-lua.vim
+continuing in /var/home/gmack/.local/share/nvim/rocks/lib/luarocks/rocks-5.1/rocks.nvim/2.42.2-1/plugin/rocks.lua
+line 0: sourcing "/var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/fzf-lua/plugin/fzf-lua.lua"
+finished sourcing /var/home/gmack/.local/share/nvim/site/pack/luarocks/opt/fzf-lua/plugin/fzf-lua.lua
+continuing in /var/home/gmack/.local/share/nvim/rocks/lib/luarocks/rocks-5.1/rocks.nvim/2.42.2-1/plugin/rocks.lua
+not found in 'packpath': "pack/*/start/mini.splitjoin"
+not found in 'packpath': "pack/*/start/mini.statusline"
+not found in 'packpath': "pack/*/start/mini.surround"
+not found in 'packpath': "pack/*/start/mini.tabline"
+not found in 'packpath': "pack/*/start/mini.trailspace"
+not found in 'packpath': "pack/*/start/noice.nvim"
+not found in 'packpath': "pack/*/start/quicker.nvim"
+finished sourcing /var/home/gmack/.local/share/nvim/rocks/lib/luarocks/rocks-5.1/rocks.nvim/2.42.2-1/plugin/rocks.lua
+not found in 'packpath': "pack/*/start/*"
+not found in 'packpath': "start/*"
+sourcing "/var/home/gmack/.config/nvim/after/plugin/01_setups.lua"
+finished sourcing /var/home/gmack/.config/nvim/after/plugin/01_setups.lua
+Reading ShaDa file "/var/home/gmack/.local/state/nvim/shada/main.shada" info marks oldfiles
+Executing BufWinEnter Autocommands for "*"
+Executing BufWinEnter Autocommands for "*"
+Executing BufEnter Autocommands for "*"
+Executing BufEnter Autocommands for "*"
+Executing BufEnter Autocommands for "*"
+Executing QuitPre Autocommands for "*"
+Executing VimLeavePre Autocommands for "*"
+Writing ShaDa file "/var/home/gmack/.local/state/nvim/shada/main.shada"
+Executing VimLeave Autocommands for "*"
+Executing TermResponse Autocommands for "*"
+Executing FocusGained Autocommands for "<buffer=1>"
